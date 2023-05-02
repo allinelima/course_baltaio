@@ -1,0 +1,15 @@
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/bin/Debug/net7.0/Balta
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/bin/Debug/net7.0/Balta.deps.json
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/bin/Debug/net7.0/Balta.runtimeconfig.json
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/bin/Debug/net7.0/Balta.dll
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/bin/Debug/net7.0/Balta.pdb
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/obj/Debug/net7.0/Balta.csproj.AssemblyReference.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/obj/Debug/net7.0/Balta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/obj/Debug/net7.0/Balta.AssemblyInfoInputs.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/obj/Debug/net7.0/Balta.AssemblyInfo.cs
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/obj/Debug/net7.0/Balta.csproj.CoreCompileInputs.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/obj/Debug/net7.0/Balta.dll
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/obj/Debug/net7.0/refint/Balta.dll
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/obj/Debug/net7.0/Balta.pdb
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/obj/Debug/net7.0/Balta.genruntimeconfig.cache
+/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/obj/Debug/net7.0/ref/Balta.dll
