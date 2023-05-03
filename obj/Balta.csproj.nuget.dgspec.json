@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/Balta.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/Balta.csproj",
         "packagesPath": "/Users/U000946/.nuget/packages/",
         "outputPath": "/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/obj/",
+=======
+    "/Users/U000946/Documents/Cursos_dev_back/C#/Balta/Balta/Balta.csproj": {}
+  },
+  "projects": {
+    "/Users/U000946/Documents/Cursos_dev_back/C#/Balta/Balta/Balta.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/U000946/Documents/Cursos_dev_back/C#/Balta/Balta/Balta.csproj",
+        "projectName": "Balta",
+        "projectPath": "/Users/U000946/Documents/Cursos_dev_back/C#/Balta/Balta/Balta.csproj",
+        "packagesPath": "/Users/U000946/.nuget/packages/",
+        "outputPath": "/Users/U000946/Documents/Cursos_dev_back/C#/Balta/Balta/obj/",
+>>>>>>> 5950b404ffd15ce1bb8ed13e3ca61df9b756f8c1
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/U000946/.nuget/NuGet/NuGet.Config"

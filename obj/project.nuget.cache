@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "kCEwV9/2XEOqdZVqIQJihIySPCVe6CKs9B3v5VXVkEyR3LvHlZhKHviIhlWZmQZ4w5DbB25P7Usn+hecciXZTg==",
   "success": true,
   "projectFilePath": "/Users/U000946/Documents/Cursos_dev_back/C#/course_baltaio/Balta.csproj",
+=======
+  "dgSpecHash": "X3jdpPt4dAbcAmNmSeSvYu9Y2SKBAjdqw3lgqSWltGDFdT4Z89BvF6kQaRBj8bx+VfiaLXYM5R6rx8zS7vS5mQ==",
+  "success": true,
+  "projectFilePath": "/Users/U000946/Documents/Cursos_dev_back/C#/Balta/Balta/Balta.csproj",
+>>>>>>> 5950b404ffd15ce1bb8ed13e3ca61df9b756f8c1
   "expectedPackageFiles": [],
   "logs": []
 }
