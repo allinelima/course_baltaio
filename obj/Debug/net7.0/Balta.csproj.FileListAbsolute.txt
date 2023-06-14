@@ -1,0 +1,15 @@
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/bin/Debug/net7.0/Balta
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/bin/Debug/net7.0/Balta.deps.json
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/bin/Debug/net7.0/Balta.runtimeconfig.json
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/bin/Debug/net7.0/Balta.dll
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/bin/Debug/net7.0/Balta.pdb
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/obj/Debug/net7.0/Balta.csproj.AssemblyReference.cache
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/obj/Debug/net7.0/Balta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/obj/Debug/net7.0/Balta.AssemblyInfoInputs.cache
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/obj/Debug/net7.0/Balta.AssemblyInfo.cs
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/obj/Debug/net7.0/Balta.csproj.CoreCompileInputs.cache
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/obj/Debug/net7.0/Balta.dll
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/obj/Debug/net7.0/refint/Balta.dll
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/obj/Debug/net7.0/Balta.pdb
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/obj/Debug/net7.0/Balta.genruntimeconfig.cache
+/Users/alinelima/Documents/Cursos-Backend/c#/course_baltaio/obj/Debug/net7.0/ref/Balta.dll

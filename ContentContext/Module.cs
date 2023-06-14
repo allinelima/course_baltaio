@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace course_baltaio.ContentContext
 {
-    public class Module
+    public class Module : Base
     {
         public Module()
         {
